@@ -1,4 +1,7 @@
- ## José Jamba
+ ## Olá sou o José, Jamba e estou no GitHub!!!
+ Sobre:
+  - Focado no trabalho
+  - Competente, e disponivel a aprimorar as suas habilidades
   ## Linguagens e tecnologias
 <div style="display: inline_block"><br>
   
